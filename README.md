@@ -9,7 +9,7 @@
 Тема: список настолок.
 
 Страница отображения всего списка:
-![image](https://github.com/DokutahShikikan/laba3OOP/assets/124569209/3c4dd662-9f2c-456c-aa1e-868ee9f728c7)
+![image](https://github.com/DokutahShikikan/laba3OOP/assets/124569209/c5fd7ab3-27ef-456b-9d1d-47c5b2c6f8fc)
 
 Страница добавления записи в общий список:
 ![image](https://github.com/DokutahShikikan/laba3OOP/assets/124569209/fc0635c5-24ec-4af8-bfa6-89b6f1c8dabf)
